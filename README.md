@@ -1,14 +1,14 @@
-[![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)](https://prem-sardhan.io)
+
 
 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/452800/screenshots/2423898/media/33fb1b0d2b966f716e99011148941cdd.gif" width="40%"/>
+  <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1669055142~exp=1669055742~hmac=3df8771b586ef506c4c278d81accfecf1ceed26d2f7f4f75df7634dc9fb5f3b9" width="50%"/>
 </div>
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Prem Sardhan <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Rohit Kumar <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohit-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Kumar" /> </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Prem 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Rohit 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -123,7 +123,6 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/Rohit-world/github-readme-stats"><img alt="Rohit-world Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit-world&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&count_private=true" alt="Rohit-world" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
 
 <br/>

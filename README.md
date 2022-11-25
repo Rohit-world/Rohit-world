@@ -108,12 +108,12 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/Rohit-world/github-readme-stats"><img alt="prem-sardhan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-sardhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Rohit-world/github-readme-stats"><img alt="Rohit-world Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-world&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/Rohit-world/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prem-sardhan" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-sardhan&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit-world" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-world&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
@@ -127,7 +127,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Rohit-world/github-readme-activity-graph"><img alt="prem-sardhan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit-world&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true" /></a>
+<a href="https://github.com/Rohit-world/github-readme-activity-graph"><img alt="Rohit-world Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit-world&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true" /></a>
 
 <br/>
 <br/>

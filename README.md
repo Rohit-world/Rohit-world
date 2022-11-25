@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Rohit Kumar <img src="https://www.freepngimg.com/download/emoji/73728-emoticon-smiley-peace-emojis-laughter-emoji.png" width="32"/></h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohit-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Kumar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohit-world&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Kumar" /> </p>
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 

@@ -49,7 +49,7 @@
 <hr />
 
 
-<h2 align="center">🚀 Languages and Tools:</h2>
+<h2 align="center">🚀 Tech Stacks:</h2>
 <br/>
 <div align="center">
  
@@ -118,7 +118,6 @@
 </p>                                                                                                                                              
 
   <br/>
-  <br/>
      <p align="center">                                                                                                 
     <a href="https://github.com/Rohit-world/github-readme-stats"><img alt="Rohit-world Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit-world&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&count_private=true" alt="Rohit-world" /></a>
     </p>                                                                 
@@ -127,7 +126,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Rohit-world/github-readme-activity-graph"><img alt="Rohit-world Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit-world&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true" /></a>
 
 <br/>
 <br/>
